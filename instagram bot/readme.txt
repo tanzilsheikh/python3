@@ -1,3 +1,4 @@
+open cmd and execute-  pip install selenium
 TESTED ON CHROME BROWSER Version 79.0.3945.117  (64-bit)
 
 BOTH THE FILE NEED TO BE IN THE SAME DIRECTORY TO USE THE CHROME DRIVER 
